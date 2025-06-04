@@ -9,10 +9,10 @@ Each project here explores something new — whether it’s web dev, systems pro
 
 ### 🧾 Automated Stock Portfolio Rebalancer (in progress)
 **Tech Stack:** 
-Python 3.10+, Pandas, Matplotlib/Plotly, & Alpaca API 
+Python 3.10+, Pandas, Alpaca API, & Flask
 
 **Description:**  
-A Python-powered portfolio tracker that analyzes your current holdings, compares them to your target asset allocation, and suggests optimal trades. Bonus: live trading support with Alpaca API.
+A Python + Flask web app that tracks your stock portfolio (via Alpaca API or CSV) and suggests trades to rebalance your asset allocation in real-time.
 
 > 🔗 Repo: [`Automated Stock Portfolio Rebalancer`](https://github.com/natejamesgithub/automated-portfolio-rebalancer)
 
