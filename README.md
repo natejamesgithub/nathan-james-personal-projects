@@ -16,7 +16,8 @@ A Python + Flask web app that tracks your stock portfolio (via Alpaca API or CSV
 
 > 🔗 Repo: [`Automated Stock Portfolio Rebalancer`](https://github.com/natejamesgithub/automated-portfolio-rebalancer)
 
-### 📈 Real-time Crypto Price Dashboard  
+
+### 📈 Real-time Crypto Price Dashboard (in-progress)
 **Tech Stack:**  
 Node.js, Express, React, Socket.IO, TailwindCSS, CoinGecko API, & Sentiment.js  
 
