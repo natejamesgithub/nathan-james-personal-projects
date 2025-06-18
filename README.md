@@ -7,7 +7,7 @@ Each project here explores something new — whether it’s web dev, systems pro
 
 ## 📦 Featured Projects
 
-### 🧾 Automated Stock Portfolio Rebalancer (in progress)
+### 🧾 Automated Stock Portfolio Rebalancer
 **Tech Stack:** 
 Python 3.10+, Pandas, Alpaca API, & Flask
 
@@ -15,6 +15,15 @@ Python 3.10+, Pandas, Alpaca API, & Flask
 A Python + Flask web app that tracks your stock portfolio (via Alpaca API or CSV) and suggests trades to rebalance your asset allocation in real-time.
 
 > 🔗 Repo: [`Automated Stock Portfolio Rebalancer`](https://github.com/natejamesgithub/automated-portfolio-rebalancer)
+
+### 📈 Real-time Crypto Price Dashboard  
+**Tech Stack:**  
+Node.js, Express, React, Socket.IO, TailwindCSS, CoinGecko API, & Sentiment.js  
+
+**Description:**  
+A real-time dashboard that displays live cryptocurrency prices, sentiment analysis from social media, and curated crypto news. Built with a WebSocket-based architecture for instant updates and a modern React UI for an intuitive experience.
+
+> 🔗 Repo: [`Real-time Crypto Price Dashboard`](https://github.com/natejamesgithub/real-time-crypto-dashboard)
 
 ---
 
