@@ -8,7 +8,7 @@ Each project here explores something new — whether it’s web dev, systems pro
 ## 📦 Featured Projects
 
 ### 🧾 Automated Stock Portfolio Rebalancer
-**Tech Stack:** 
+**Tech Stack:**                         
 Python 3.10+, Pandas, Alpaca API, & Flask
 
 **Description:**  
@@ -18,7 +18,7 @@ A Python + Flask web app that tracks your stock portfolio (via Alpaca API or CSV
 
 
 ### 📈 Real-time Crypto Price Dashboard (in-progress)
-**Tech Stack:**  
+**Tech Stack:**             
 Node.js, Express, React, Socket.IO, TailwindCSS, CoinGecko API, & Sentiment.js  
 
 **Description:**  
