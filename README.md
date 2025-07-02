@@ -17,14 +17,14 @@ A Python + Flask web app that tracks your stock portfolio (via Alpaca API or CSV
 > 🔗 Repo: [`Automated Stock Portfolio Rebalancer`](https://github.com/natejamesgithub/automated-portfolio-rebalancer)
 
 
-### 📈 Real-time Crypto Price Dashboard (in-progress)
-**Tech Stack:**             
-Node.js, Express, React, Socket.IO, TailwindCSS, CoinGecko API, & Sentiment.js  
+### 💸 Smart Split — Expense Splitting + Reimbursement Tracker (in-progress)
+**Tech Stack:**  
+JavaScript (Node.js, Express), MongoDB, React, REST API
 
 **Description:**  
-A real-time dashboard that displays live cryptocurrency prices, sentiment analysis from social media, and curated crypto news. Built with a WebSocket-based architecture for instant updates and a modern React UI for an intuitive experience.
+A full-stack web application that simplifies group expense management by letting users log shared costs, split expenses fairly, track reimbursements, and view real-time balances — perfect for roommates, travel groups, or project teams. Includes automatic debt minimization, smart payment suggestions, and visual summaries.
 
-> 🔗 Repo: [`Real-time Crypto Price Dashboard`](https://github.com/natejamesgithub/real-time-crypto-dashboard)
+> 🔗 Repo: [`Smart Split`](https://github.com/natejamesgithub/smart-split)
 
 ---
 
