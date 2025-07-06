@@ -19,10 +19,10 @@ A Python + Flask web app that tracks your stock portfolio (via Alpaca API or CSV
 
 ### 💸 Smart Split — Expense Splitting + Reimbursement Tracker (in-progress)
 **Tech Stack:**  
-JavaScript (Node.js, Express), MongoDB, React, REST API
+JavaScript (Node.js, Express), MongoDB, React, Firebase Auth, REST API
 
 **Description:**  
-A full-stack web application that simplifies group expense management by letting users log shared costs, split expenses fairly, track reimbursements, and view real-time balances — perfect for roommates, travel groups, or project teams. Includes automatic debt minimization, smart payment suggestions, and visual summaries.
+A full-stack web app for managing shared expenses in groups — ideal for roommates, trips, or team projects. Users can create groups, add and split expenses, track who owes whom in real-time, log reimbursements, and view dynamic balance updates. Features include full user auth, payment logging, intelligent balance calculations, and a responsive dashboard. 
 
 > 🔗 Repo: [`Smart Split — Expense Splitting + Reimbursement Tracker`](https://github.com/natejamesgithub/smart-split)
 
