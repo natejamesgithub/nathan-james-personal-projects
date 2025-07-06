@@ -24,7 +24,7 @@ JavaScript (Node.js, Express), MongoDB, React, REST API
 **Description:**  
 A full-stack web application that simplifies group expense management by letting users log shared costs, split expenses fairly, track reimbursements, and view real-time balances — perfect for roommates, travel groups, or project teams. Includes automatic debt minimization, smart payment suggestions, and visual summaries.
 
-> 🔗 Repo: [`Smart Split`](https://github.com/natejamesgithub/smart-split)
+> 🔗 Repo: [`Smart Split — Expense Splitting + Reimbursement Tracker`](https://github.com/natejamesgithub/smart-split)
 
 ---
 
