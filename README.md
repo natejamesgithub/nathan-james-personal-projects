@@ -17,7 +17,7 @@ A Python + Flask web app that tracks your stock portfolio (via Alpaca API or CSV
 > 🔗 Repo: [`Automated Stock Portfolio Rebalancer`](https://github.com/natejamesgithub/automated-portfolio-rebalancer)
 
 
-### 💸 Smart Split — Expense Splitting + Reimbursement Tracker (in-progress)
+### 💸 Smart Split — Expense Splitting + Reimbursement Tracker
 **Tech Stack:**  
 JavaScript (Node.js, Express), MongoDB, React, Firebase Auth, REST API
 
