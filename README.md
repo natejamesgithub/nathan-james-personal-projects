@@ -1,7 +1,7 @@
 # 🛠️ Personal Projects
 
-Welcome to my collection of self-initiated coding projects — built for learning, experimenting, and building cool stuff outside the classroom.  
-Each project here explores something new — whether it’s web dev, systems programming, automation, or fintech.
+Welcome to my collection of self-initiated coding project.  
+Each project here hopes to explore something new — whether it’s web dev, systems programming, automation, or fintech.
 
 ---
 
