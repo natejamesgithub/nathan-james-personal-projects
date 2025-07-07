@@ -30,9 +30,7 @@ A full-stack web app for managing shared expenses in groups — ideal for roomma
 
 ## 📌 Notes
 
-- This repo is *public* and curated for employers, collaborators, and curious devs.
-- Some repos are fully self-contained; others link to live demos or documentation.
-- Open to feedback, contributions, or collaboration on any of these!
+- This repo is *public* and curated for employers.
 
 ---
 
