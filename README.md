@@ -25,6 +25,15 @@ A full-stack web app for managing shared expenses in groups — ideal for roomma
 
 > 🔗 Repo: [`Smart Split — Expense Splitting + Reimbursement Tracker`](https://github.com/natejamesgithub/smart-split)
 
+### 🛡️ Bank Account Management System with Fraud Detection
+**Tech Stack:**  
+Java 17+, Maven, PostgreSQL, Python, Jep
+
+**Description:**  
+A Java backend system that simulates bank accounts and transaction flows, complete with a fraud detection module powered by machine learning. Users can create accounts, perform transfers, deposits, and withdrawals, and view account balances and transaction histories. An integrated ML model (Isolation Forest) analyzes transaction patterns to flag potentially fraudulent activity in real time.
+
+> 🔗 Repo: [`Bank Account Management System with Fraud Detection`](https://github.com/natejamesgithub/)
+
 ---
 
 ## 📌 Notes
