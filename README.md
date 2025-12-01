@@ -1,12 +1,12 @@
-# 🛠️ Personal Projects
+# Personal Projects
 
 Welcome to my collection of self-initiated coding project. Each project here hopes to explore something new.
 
 ---
 
-## 📦 Featured Projects
+## Featured Projects
 
-### 🧾 Automated Stock Portfolio Rebalancer
+### Automated Stock Portfolio Rebalancer
 **Tech Stack:**                         
 Python 3.10+, Pandas, Alpaca API, & Flask
 
@@ -16,7 +16,7 @@ A Python + Flask web app that tracks your stock portfolio (via Alpaca API or CSV
 > 🔗 Repo: [`Automated Stock Portfolio Rebalancer`](https://github.com/natejamesgithub/automated-portfolio-rebalancer)
 
 
-### 💸 Smart Split — Expense Splitting + Reimbursement Tracker
+### Smart Split — Expense Splitting + Reimbursement Tracker
 **Tech Stack:**  
 JavaScript (Node.js, Express), MongoDB, React, Firebase Auth, REST API
 
@@ -25,7 +25,7 @@ A full-stack web app for managing shared expenses in groups — ideal for roomma
 
 > 🔗 Repo: [`Smart Split — Expense Splitting + Reimbursement Tracker`](https://github.com/natejamesgithub/smart-split)
 
-### 🛡️ Bank Account Management System with Fraud Detection
+### Bank Account Management System with Fraud Detection
 **Tech Stack:**  
 Java 17+, Maven, PostgreSQL, Python, Jep
 
@@ -36,13 +36,13 @@ A Java backend system that simulates bank accounts and transaction flows, comple
 
 ---
 
-## 📌 Notes
+## Notes
 
 - This repo is *public* and curated for employers.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - [GitHub Profile](https://github.com/natejamesgithub)  
 - [LinkedIn](www.linkedin.com/in/natejames2027)  
