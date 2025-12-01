@@ -36,12 +36,6 @@ A Java backend system that simulates bank accounts and transaction flows, comple
 
 ---
 
-## Notes
-
-- This repo is *public* and curated for employers.
-
----
-
 ## Contact
 
 - [GitHub Profile](https://github.com/natejamesgithub)  
