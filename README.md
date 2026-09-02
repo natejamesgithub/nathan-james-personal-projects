@@ -25,14 +25,14 @@ A full-stack web app for managing shared expenses in groups — ideal for roomma
 
 > 🔗 Repo: [`Smart Split — Expense Splitting + Reimbursement Tracker`](https://github.com/natejamesgithub/smart-split)
 
-### Bank Account Management System with Fraud Detection
+### FactorForge — WRDS Factor Zoo Replication
 **Tech Stack:**  
-Java 17+, Maven, PostgreSQL, Python, Jep
+Python, WRDS PostgreSQL, pandas, NumPy, statsmodels, scikit-learn, Matplotlib/Plotly, Jupyter, PyTest
 
 **Description:**  
-A Java backend system that simulates bank accounts and transaction flows, complete with a fraud detection module powered by machine learning. Users can create accounts, perform transfers, deposits, and withdrawals, and view account balances and transaction histories. An integrated ML model (Isolation Forest) analyzes transaction patterns to flag potentially fraudulent activity in real time.
+A quantitative research project that replicates and evaluates classic equity factors using WRDS data, including CRSP and Compustat. The project builds a reproducible factor pipeline for constructing value, momentum, size, profitability, investment, and quality signals, then tests their performance through portfolio sorts, long-short strategies, risk-adjusted returns, drawdowns, turnover, and factor correlations. Features include WRDS data extraction, CRSP-Compustat linking, factor construction, backtesting, benchmark comparison, and publication-style analytics.
 
-> 🔗 Repo: [`Bank Account Management System with Fraud Detection`](https://github.com/natejamesgithub/bank-account-management)
+> 🔗 Repo: [`FactorForge — WRDS Factor Zoo Replication`](https://github.com/natejamesgithub/wrds-factor-zoo-replication)
 
 ---
 
