@@ -25,12 +25,12 @@ A full-stack web app for managing shared expenses in groups — ideal for roomma
 
 > 🔗 Repo: [`Smart Split — Expense Splitting + Reimbursement Tracker`](https://github.com/natejamesgithub/smart-split)
 
-### WRDS Factor Zoo Replication (In-Progress)
+### WRDS Factor Zoo Replication
 **Tech Stack:**  
-Python, WRDS PostgreSQL, pandas, NumPy, statsmodels, scikit-learn, Matplotlib/Plotly, Jupyter, PyTest
+Python, WRDS PostgreSQL, CRSP, Compustat, CCM, Pandas, NumPy, Matplotlib, Unittest
 
 **Description:**  
-A quantitative research project that replicates and evaluates classic equity factors using WRDS data, including CRSP and Compustat. The project builds a reproducible factor pipeline for constructing value, momentum, size, profitability, investment, and quality signals, then tests their performance through portfolio sorts, long-short strategies, risk-adjusted returns, drawdowns, turnover, and factor correlations. Features will include WRDS data extraction, CRSP-Compustat linking, factor construction, backtesting, benchmark comparison, and publication-style analytics.
+A quantitative research pipeline that replicates classic equity factor strategies using WRDS, CRSP, Compustat, and CCM data. The project constructs value, size, profitability, investment, and momentum signals, then evaluates them through monthly quantile portfolio sorts, long-short backtests, performance metrics, and publication-style charts. Features include WRDS data extraction, CRSP-Compustat linking, factor construction, CAGR/Sharpe/drawdown analytics, and visual reports for cumulative returns, monthly returns, drawdowns, and long-vs-short portfolio behavior.
 
 > 🔗 Repo: [`WRDS Factor Zoo Replication`](https://github.com/natejamesgithub/wrds-factor-zoo-replication)
 
