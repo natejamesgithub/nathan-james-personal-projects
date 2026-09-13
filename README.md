@@ -34,6 +34,16 @@ A quantitative research pipeline that replicates classic equity factor strategie
 
 > 🔗 Repo: [`WRDS Factor Zoo Replication`](https://github.com/natejamesgithub/wrds-factor-zoo-replication)
 
+### Polymarket EDA
+
+**Tech Stack:**\
+Python, PyArrow, JavaScript, HTML, CSS, GitHub Pages
+
+**Description:**\
+An interactive exploratory analysis dashboard covering 604,578 Polymarket traders. The project transforms Parquet data into summaries to explore trading activity, profitability, and topic specialization. Features include signed-log histograms, a filterable 5,000-trader scatterplot with hover details, and concentration-group comparisons across activity thresholds. Integrated findings explain distribution skew, sampling limitations, and how specialist profitability comparisons change with trader activity.
+
+> 🔗 Repo: [`Polymarket EDA`](https://github.com/natejamesgithub/polymarket-eda)
+
 ---
 
 ## Contact
