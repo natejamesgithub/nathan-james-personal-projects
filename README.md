@@ -34,7 +34,7 @@ A quantitative research pipeline that replicates classic equity factor strategie
 
 > 🔗 Repo: [`WRDS Factor Zoo Replication`](https://github.com/natejamesgithub/wrds-factor-zoo-replication)
 
-### Polymarket EDA
+### Polymarket Exploratory Data Analysis
 
 **Tech Stack:**\
 Python, PyArrow, JavaScript, HTML, CSS, GitHub Pages
